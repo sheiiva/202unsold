@@ -33,4 +33,4 @@ Let’s call **X**, **Y** and **Z**, respectively, the random variables that rep
 * a       constant computed from past results
 * b       constant computed from past results
 
-Author **Corentin COUTRET-ROZET** and **PATRICIA MONFA-MATAS**
+Author [**Corentin COUTRET-ROZET**](https://github.com/sheiiva) and [**PATRICIA MONFA-MATAS**](https://github.com/patumm)
