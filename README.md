@@ -26,11 +26,13 @@ Let’s call **X**, **Y** and **Z**, respectively, the random variables that rep
 ## USAGE:
 
 ```
->> ./202unsold a b
-```
+>> ./202unsold -h
+USAGE
+	./202unsold a b
 
-#### DESCRIPTION
-* a       constant computed from past results
-* b       constant computed from past results
+DESCRIPTION
+	a	constant computed from the past results
+	b	constant computed from the past results
+```
 
 Author **Corentin COUTRET-ROZET** and **PATRICIA MONFA-MATAS**
